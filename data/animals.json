@@ -108,6 +108,16 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "test",
+      "species": "test",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "11"
     }
   ]
 }
